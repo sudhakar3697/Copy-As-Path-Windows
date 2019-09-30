@@ -1,11 +1,11 @@
 # Copy-as-path-Windows
 Adds a  Windows File Explorer context menu for Copying file/directory as path.
 
-# Add
+## Add
 
 Just run the 'AddCopyAsPath.bat' as Administrator
 
-# Remove
+## Remove
 
 Just run the 'RemoveCopyAsPath.bat' as Administrator
 
